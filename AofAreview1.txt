@@ -1,0 +1,26 @@
+All,
+
+Congratulations on completing Analysis of Algorithms!
+
+Due to the too-short break, there are no lectures to watch this week.
+
+After the break, on 
+  Wednesday, March 16 at 11:59AM
+we will post a "Review Problem Set" that will be due on
+  Thursday, March 17 at 11:59PM
+The purpose of this assessment is to check and cement your understanding 
+of basic concepts and to prepare for the second half of the semester.
+
+There will be one question per lecture, similar to inclass exam questions
+but adjusted to take into account that you have much more time. You can
+find much more information and examples in AAReview.pdf.
+
+Beyond the easier problems and the short time span, the only other change 
+in the rules is that you must work alone.
+
+Having personally graded all of your problems so far, I think that all
+of you have a good grasp of the concepts and should do well.
+
+RS
+
+

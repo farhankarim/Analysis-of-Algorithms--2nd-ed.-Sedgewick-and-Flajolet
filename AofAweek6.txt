@@ -1,0 +1,44 @@
+
+Welcome to Week 6 of Analysis of Algorithms. The lectures for this
+week complete our survey of important combinatorial classes and
+applications in the analysis of algorithms.
+
+---------- 
+Lecture 8: Strings and Tries. From DNA sequences to web indices,
+strings (sequences of characters) are ubiquitous in modern computing
+applications, so we use analytic combinatorics to study their basic
+properties and then introduce the trie, an essential and fundamental
+structure not found in classical combinatorics.
+
+Lecture 9: Words and Mappings. We view strings as sets of characters
+or as functions from [1..N] to [1..M] to study classical occupancy
+problems and their application to fundamental hashing
+algorithms. Functions from [1..N] to [1..N] are mappings, which have
+an interesting and intricate structure that we can study with analytic
+combinatorics.
+---------- 
+
+Your assignment for this week, due at 11:59PM on 
+    Thursday, March 3, 2022
+is to write up and submit solutions to 
+    Exercises 8.3, 8.14, 8.57, and 9.58 
+in "Analysis of Algorithms" (second edition). 
+
+HINT for 8.57: Characterizing the periodic term as on page 460
+or slide 60 of Lecture 8 is difficult (be my guest, if you want to try)
+so you can just use Euler-MacLaurin summation at the end of the derivation
+and ignore the error term.
+
+Also, as usual, submit a potential exam question on the week's material.
+
+Submit files named
+  “AofA6-Q1.pdf"
+  “AofA6-Q2.pdf"
+  "AofA6-Q3.pdf"
+  “AofA6-Q4.pdf"
+  “AofA6-QQ.pdf"
+via codePost.
+
+RS
+
+
