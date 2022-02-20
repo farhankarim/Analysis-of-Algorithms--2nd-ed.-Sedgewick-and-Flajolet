@@ -1,0 +1,44 @@
+Welcome to Week 4 of Analysis of Algorithms. The lecture for this week
+introduces a completely different approach to studying properties of
+discrete structures.
+
+---------- 
+Lecture 5: Analytic Combinatorics. With a basic knowledge of
+recurrences, generating functions, and asymptotics, you are ready to
+learn and appreciate the basic features of analytic combinatorics, a
+systematic approach that avoids much of the detail of the classical
+methods that we have been considering. We introduce unlabelled and
+labelled combinatorial classes and motivate our basic approach to
+studying them, with numerous examples.
+---------- 
+
+Your assignment for this week, due at 11:59PM on 
+    Thursday, February 17, 2022
+is to write up and submit solutions to 
+    Exercises 5.1, 5.3, 5.7, and 5.23 
+in "Analysis of Algorithms" (second edition).
+
+For 5.1 and 5.23, ~-approximations suffice. Be  sure to note
+the errata listed on the booksite. Specifically, \rho^n should be
+\rho^{-n} in the Corollary on page 250 (and on slide 46 in lecture 5).
+
+For 5.23, you can apply the Corollary to Theorem 5.5 even though the
+radius of convergence is not >1. The theorem holds because the partial
+sums of the coefficients converge to f(1), which is a sufficient condition
+as noted in the last line of the proof of the theorem. (If you want to
+prove that fact for this case, you can do so for extra credit.)
+
+As usual, you also need to submit a potential inclass exam question on the
+week's material.
+
+Submit files named
+  “AofA4-Q1.pdf"
+  “AofA4-Q2.pdf"
+  "AofA4-Q3.pdf"
+  “AofA4-Q4.pdf"
+  “AofA4-QQ.pdf"
+via codePost.
+
+RS
+
+

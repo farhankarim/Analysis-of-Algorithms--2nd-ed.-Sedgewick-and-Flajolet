@@ -1,0 +1,42 @@
+
+Welcome to Week 5 of Analysis of Algorithms. The lectures for this
+week address two familiar and fundamental combinatorial structures and
+the use of analytic combinatorics to study them, including coverage of
+several applications.
+
+---------- 
+Lecture 6: Trees. The quintessential recursive structure, trees of
+various sorts are ubiquitous in scientific enquiry, and they arise
+explicitly in countless computing applications. You can find broad
+coverage in the textbook, but the lecture focuses on the use of
+analytic combinatorics to enumerate various types of trees and study
+parameters
+
+Lecture 7: Permutations. The study of sorting algorithms is the study
+of properties of permutations. We introduce analytic-combinatoric
+approaches to studying permutations in the context of this
+relationship.
+---------- 
+
+Your assignment for this week, due at 11:59PM on 
+    Thursday, February 24, 2022
+is to write up and submit solutions to 
+    Exercises 6.6, 5.16, 7.26, and 7.29 
+in "Analysis of Algorithms" (second edition). For the first two
+problems, use analytic combinatorics to derive ~-approximations, which
+considerably simplifies the calculations. A problem similar to 5.16 is
+worked out in Chapter 5 on the booksite.
+
+Also, as usual, submit a potential exam question on the week's material.
+
+Submit files named
+  “AofA5-Q1.pdf"
+  “AofA5-Q2.pdf"
+  "AofA5-Q3.pdf"
+  “AofA5-Q4.pdf"
+  “AofA5-QQ.pdf"
+via codePost.
+
+RS
+
+
